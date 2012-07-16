@@ -163,12 +163,12 @@ class Test(unittest.TestCase):
 	intraCellularRadix = ExternalContent(valid = validActual)
 	self.assert_(intraCellularRadix.valid == validActual)
 	
-    def testExternalContent1(self):
+    def testExternalContent2(self):
 	validActual = True
 	intraCellularRadix = ExternalContent(valid = validActual)
 	self.assert_(intraCellularRadix.valid == validActual)
 	
-    def testExternalContent1(self):
+    def testExternalContent3(self):
 	validActual = False
 	intraCellularRadix = ExternalContent(valid = validActual)
 	self.assert_(intraCellularRadix.valid != True)
