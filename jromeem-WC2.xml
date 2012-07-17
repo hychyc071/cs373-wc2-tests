@@ -193,9 +193,15 @@
             </primaryImage>
             <image>
             	<site></site>
-                <title>Chernobyl Reactor</title>
-                <url>http://upload.wikimedia.org/wikipedia/en/1/1b/Chernobyl_Disaster.jpg</url>
-                <description>The nuclear reactor after the disaster</description>
+                <title>Chernobyl Nuclear Power Plant</title>
+                <url>http://toxipedia.org/download/attachments/1428/chernobyl.jpg</url>
+                <description>The nuclear plant</description>
+            </image>
+            <image>
+            	<site></site>
+                <title>Cher</title>
+                <url>http://toxipedia.org/download/attachments/1428/chernobyl.jpg</url>
+                <description>The nuclear plant</description>
             </image>
             <video>
                 <site>YouTube</site>
